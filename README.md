@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samanthaweather
-- 👀 I’m interested in Meteorology and Geography
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Meteorology projects
+-  👀 I’m interested in Meteorology, Geography and Data Analysis
 - 📫 How to reach me samanthansm@gmail.com
 
 <!---
