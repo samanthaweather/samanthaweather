@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samanthaweather
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and R
 -  👀 I’m interested in Meteorology, Geography and Data Analysis
 - 📫 How to reach me samanthansm@gmail.com
 
